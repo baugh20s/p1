@@ -3,7 +3,4 @@
 + Production URL: <http://p1.yourdomain.com>
 
 ## Outside resources
-CSS Template: https://startbootstrap.com/template-overviews/bare/
-
-
-## Notes for instructor
+CSS from Bootstrap: https://getbootstrap.com/docs/4.1/getting-started/download/
